@@ -1,1 +1,1 @@
-# Telegram-gruplar-ndan-mesaj-ekme
+# Telegram-gruplarından-mesaj-çekme
